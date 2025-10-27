@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+Coders Rank
 GNOME VCS
 Giphy
 LushStories
@@ -10,4 +10,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
