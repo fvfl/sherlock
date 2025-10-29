@@ -1,10 +1,8 @@
 APClips
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
-HackerRank
-LiveJournal
+GitHub
 LushStories
 PocketStars
 Reddit
