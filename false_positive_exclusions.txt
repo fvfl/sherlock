@@ -1,8 +1,9 @@
 APClips
-Coders Rank
+Audiojungle
+DeviantArt
 GNOME VCS
 Giphy
-GitHub
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -11,4 +12,5 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
