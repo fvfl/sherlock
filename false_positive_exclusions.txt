@@ -1,5 +1,4 @@
 APClips
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -11,5 +10,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+phpRU
 svidbook
 xHamster
