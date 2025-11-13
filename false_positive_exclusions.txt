@@ -1,18 +1,20 @@
 APClips
 Archive.org
-BitBucket
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
-HackerRank
+Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-hunting
 opennet
+phpRU
 svidbook
