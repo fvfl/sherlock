@@ -1,9 +1,8 @@
 APClips
-Archive.org
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
+LushStories
 Minecraft
 PocketStars
 Reddit
@@ -12,6 +11,10 @@ Splice
 Spotify
 Trovo
 Weblate
+Wordnik
 YandexMusic
+hunting
+nnRU
+opennet
 phpRU
 svidbook
