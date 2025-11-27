@@ -5,13 +5,15 @@ GNOME VCS
 Giphy
 Itch.io
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+TryHackMe
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
+xHamster
