@@ -1,19 +1,22 @@
 APClips
 Archive.org
+Blogger
+CGTrader
 Coders Rank
+DeviantArt
+Flipboard
 GNOME VCS
+GeeksforGeeks
 Giphy
-Itch.io
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-TryHackMe
+Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
-xHamster
