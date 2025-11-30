@@ -1,8 +1,7 @@
 APClips
-Academia.edu
 Archive.org
 Coders Rank
-Freelancer
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -12,7 +11,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
+threads
+xHamster
