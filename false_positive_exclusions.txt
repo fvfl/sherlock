@@ -6,7 +6,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -15,6 +14,4 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster
