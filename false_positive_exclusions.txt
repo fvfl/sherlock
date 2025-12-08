@@ -7,14 +7,15 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
+Slack
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
-xHamster
