@@ -1,11 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Freelancer
+Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LushStories
 PocketStars
 Reddit
 RocketTube
@@ -16,3 +17,4 @@ YandexMusic
 opennet
 svidbook
 threads
+xHamster
