@@ -1,12 +1,11 @@
 APClips
+Academia.edu
 Archive.org
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
 LushStories
 Minecraft
@@ -16,7 +15,6 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
