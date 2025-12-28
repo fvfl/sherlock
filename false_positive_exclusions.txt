@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -13,6 +12,7 @@ Minecraft
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -23,4 +23,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
