@@ -1,22 +1,17 @@
 APClips
-Archive of Our Own
 Archive.org
-Blogger
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -27,4 +22,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
