@@ -6,8 +6,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitBook
 Hubski
-LushStories
 PocketStars
 Realmeye
 Reddit
