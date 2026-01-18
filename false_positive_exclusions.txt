@@ -7,8 +7,8 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LiveJournal
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,6 +22,6 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
