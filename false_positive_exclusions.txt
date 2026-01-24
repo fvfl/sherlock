@@ -1,7 +1,7 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -9,7 +9,6 @@ Giphy
 Hubski
 LiveJournal
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,10 +18,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 mercadolivre
 phpRU
 svidbook
-xHamster
