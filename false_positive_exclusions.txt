@@ -1,16 +1,15 @@
 APClips
 Archive.org
+Audiojungle
+CGTrader
 Code Snippet Wiki
-Cults3D
+DeviantArt
 Fandom
-Freelancer
-GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
+Itch.io
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -20,6 +19,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 mercadolivre
