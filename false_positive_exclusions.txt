@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,12 +9,11 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -27,4 +27,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
