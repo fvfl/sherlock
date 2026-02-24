@@ -1,16 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -25,5 +21,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
