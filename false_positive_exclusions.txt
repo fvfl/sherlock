@@ -1,13 +1,14 @@
 APClips
 Archive.org
 Codolio
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Pornhub
@@ -16,6 +17,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -27,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
