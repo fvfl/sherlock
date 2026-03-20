@@ -2,6 +2,7 @@ APClips
 Archive.org
 Codolio
 DeviantArt
+Fosstodon
 GeeksforGeeks
 Giphy
 Hashnode
@@ -16,6 +17,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -28,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
