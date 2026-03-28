@@ -1,12 +1,13 @@
 APClips
+Academia.edu
 Archive.org
+Audiojungle
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
 Patched
 PocketStars
 Pornhub
@@ -19,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -26,3 +28,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
