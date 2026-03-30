@@ -8,7 +8,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -17,15 +16,18 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
+Telegram
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
