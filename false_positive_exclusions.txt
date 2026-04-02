@@ -4,6 +4,7 @@ Archive.org
 Codolio
 DeviantArt
 Discord.bio
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -13,6 +14,7 @@ LushStories
 Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,3 +34,4 @@ minds
 opennet
 phpRU
 svidbook
+xHamster
