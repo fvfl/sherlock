@@ -4,17 +4,13 @@ Archive.org
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,8 +26,6 @@ Weblate
 YandexMusic
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
