@@ -6,11 +6,14 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -29,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
