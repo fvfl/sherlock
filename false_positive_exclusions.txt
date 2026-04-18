@@ -3,7 +3,9 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -22,6 +24,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
