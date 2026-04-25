@@ -1,10 +1,10 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -12,7 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-OurDJTalk
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -24,13 +24,15 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+xHamster
