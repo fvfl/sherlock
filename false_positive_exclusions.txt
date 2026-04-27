@@ -4,6 +4,7 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -15,7 +16,6 @@ LessWrong
 LushStories
 Patched
 Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -36,4 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads
