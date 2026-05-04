@@ -5,8 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chess
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -15,7 +15,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Linktree
+LiveJournal
 LushStories
 Patched
 Pornhub
@@ -23,7 +23,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
