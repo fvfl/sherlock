@@ -14,7 +14,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Motherless
 Patched
 Pornhub
@@ -39,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
