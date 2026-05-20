@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -9,10 +8,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
+Itch.io
+LessWrong
+Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -23,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Velomania
 Weblate
