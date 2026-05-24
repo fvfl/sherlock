@@ -13,7 +13,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-PCGamer
 Patched
 Pornhub
 Rarible
@@ -37,7 +36,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
