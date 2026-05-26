@@ -13,6 +13,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -30,7 +31,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-YandexMusic
 authorSTREAM
 dailykos
 igromania
@@ -39,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
