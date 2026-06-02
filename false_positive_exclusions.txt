@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -14,7 +13,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -25,6 +23,7 @@ RocketTube
 RuneScape
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -42,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
