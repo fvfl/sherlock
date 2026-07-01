@@ -4,9 +4,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
+BreachSta.rs Forum
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -27,11 +27,9 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -44,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
