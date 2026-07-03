@@ -16,11 +16,10 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Odysee
+Minecraft
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,7 +27,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
@@ -43,6 +41,8 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+xHamster
