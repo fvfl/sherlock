@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -15,10 +14,12 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
-Minecraft
 Odysee
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -42,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
