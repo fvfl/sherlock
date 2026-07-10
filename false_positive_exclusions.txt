@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -14,11 +15,10 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -43,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
