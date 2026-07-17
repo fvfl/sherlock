@@ -13,7 +13,6 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
-Houzz
 Hubski
 LessWrong
 Minecraft
@@ -21,7 +20,6 @@ Odysee
 PCGamer
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
