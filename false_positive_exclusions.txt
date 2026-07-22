@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -12,7 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -27,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -40,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
