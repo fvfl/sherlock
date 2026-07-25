@@ -12,8 +12,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -27,6 +27,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
