@@ -12,16 +12,15 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 Minecraft
 Odysee
-Outgress
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -40,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
