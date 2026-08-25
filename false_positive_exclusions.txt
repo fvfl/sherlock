@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -32,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
