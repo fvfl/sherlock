@@ -7,6 +7,7 @@ Archive.org
 Bandcamp
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -18,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -32,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -40,7 +42,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
