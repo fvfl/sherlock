@@ -5,10 +5,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,7 +21,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -48,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
