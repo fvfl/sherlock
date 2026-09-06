@@ -18,10 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -48,4 +50,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
