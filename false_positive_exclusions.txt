@@ -16,6 +16,7 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerNews
 Hashnode
 Houzz
 Hubski
@@ -53,4 +54,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
