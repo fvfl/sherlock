@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 Blogger
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -54,4 +53,5 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+threads
 xHamster
