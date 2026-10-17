@@ -25,6 +25,7 @@ Instapaper
 Linktree
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -42,6 +43,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
@@ -53,5 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-threads
 xHamster
