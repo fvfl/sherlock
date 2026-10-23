@@ -20,8 +20,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
