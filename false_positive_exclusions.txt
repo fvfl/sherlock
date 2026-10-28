@@ -18,6 +18,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +32,9 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,4 +46,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
