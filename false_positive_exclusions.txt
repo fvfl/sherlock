@@ -3,6 +3,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -14,11 +15,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,7 +33,6 @@ TryHackMe
 Velomania
 Vero
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -46,3 +44,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
