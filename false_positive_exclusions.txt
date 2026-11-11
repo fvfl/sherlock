@@ -2,6 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+CTAN
 Championat
 Chatujme.cz
 Codolio
@@ -22,7 +24,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
