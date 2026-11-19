@@ -2,19 +2,20 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Carbonmade
-Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gravatar
 HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -25,6 +26,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
