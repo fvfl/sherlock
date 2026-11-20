@@ -1,21 +1,19 @@
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gravatar
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
-LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -26,7 +24,6 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
