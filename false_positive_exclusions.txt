@@ -4,11 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
-Chess
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -16,6 +14,7 @@ Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -41,7 +40,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
