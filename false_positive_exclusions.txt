@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,7 +13,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
@@ -32,6 +30,7 @@ Trakt
 TryHackMe
 Velomania
 Vero
+Wikipedia
 YandexMusic
 authorSTREAM
 dailykos
